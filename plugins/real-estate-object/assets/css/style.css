@@ -1,0 +1,29 @@
+#real-estate-filter {
+    margin-bottom: 20px;
+}
+
+.real-estate-item {
+    margin-bottom: 20px;
+}
+
+.real-estate-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+    float: left;
+}
+
+.real-estate-item h3 {
+    margin: 0;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination-btn {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
